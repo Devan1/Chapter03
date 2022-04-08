@@ -1,0 +1,15 @@
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\SwitchStatement\obj\Debug\net6.0\SwitchStatement.csproj.AssemblyReference.cache
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\SwitchStatement\obj\Debug\net6.0\SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\SwitchStatement\obj\Debug\net6.0\SwitchStatement.AssemblyInfoInputs.cache
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\SwitchStatement\obj\Debug\net6.0\SwitchStatement.AssemblyInfo.cs
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\SwitchStatement\obj\Debug\net6.0\SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\SwitchStatement\bin\Debug\net6.0\SwitchStatement.exe
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\SwitchStatement\bin\Debug\net6.0\SwitchStatement.deps.json
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\SwitchStatement\bin\Debug\net6.0\SwitchStatement.runtimeconfig.json
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\SwitchStatement\bin\Debug\net6.0\SwitchStatement.dll
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\SwitchStatement\bin\Debug\net6.0\SwitchStatement.pdb
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\SwitchStatement\obj\Debug\net6.0\SwitchStatement.dll
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\SwitchStatement\obj\Debug\net6.0\refint\SwitchStatement.dll
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\SwitchStatement\obj\Debug\net6.0\SwitchStatement.pdb
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\SwitchStatement\obj\Debug\net6.0\SwitchStatement.genruntimeconfig.cache
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\SwitchStatement\obj\Debug\net6.0\ref\SwitchStatement.dll

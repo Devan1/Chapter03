@@ -1,0 +1,15 @@
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\ifIsStatement\bin\Debug\net6.0\ifIsStatement.exe
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\ifIsStatement\bin\Debug\net6.0\ifIsStatement.deps.json
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\ifIsStatement\bin\Debug\net6.0\ifIsStatement.runtimeconfig.json
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\ifIsStatement\bin\Debug\net6.0\ifIsStatement.dll
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\ifIsStatement\bin\Debug\net6.0\ifIsStatement.pdb
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\ifIsStatement\obj\Debug\net6.0\ifIsStatement.csproj.AssemblyReference.cache
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\ifIsStatement\obj\Debug\net6.0\ifIsStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\ifIsStatement\obj\Debug\net6.0\ifIsStatement.AssemblyInfoInputs.cache
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\ifIsStatement\obj\Debug\net6.0\ifIsStatement.AssemblyInfo.cs
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\ifIsStatement\obj\Debug\net6.0\ifIsStatement.csproj.CoreCompileInputs.cache
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\ifIsStatement\obj\Debug\net6.0\ifIsStatement.dll
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\ifIsStatement\obj\Debug\net6.0\refint\ifIsStatement.dll
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\ifIsStatement\obj\Debug\net6.0\ifIsStatement.pdb
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\ifIsStatement\obj\Debug\net6.0\ifIsStatement.genruntimeconfig.cache
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\ifIsStatement\obj\Debug\net6.0\ref\ifIsStatement.dll

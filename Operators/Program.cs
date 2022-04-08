@@ -1,0 +1,11 @@
+﻿using static System.Console;
+int a = 3;
+int b = a++;
+WriteLine($"a is {a} and b is {b}");
+int c = 3;
+int d = ++c;
+WriteLine($"c is {c} and d is {d}");
+int e = 11;
+int f = 3;
+double g = 11.0;
+WriteLine($"g is {g:N2}, f is {f}");
