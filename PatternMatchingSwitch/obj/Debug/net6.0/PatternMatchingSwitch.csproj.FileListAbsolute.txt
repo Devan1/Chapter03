@@ -1,0 +1,15 @@
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\PatternMatchingSwitch\bin\Debug\net6.0\PatternMatchingSwitch.exe
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\PatternMatchingSwitch\bin\Debug\net6.0\PatternMatchingSwitch.deps.json
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\PatternMatchingSwitch\bin\Debug\net6.0\PatternMatchingSwitch.runtimeconfig.json
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\PatternMatchingSwitch\bin\Debug\net6.0\PatternMatchingSwitch.dll
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\PatternMatchingSwitch\bin\Debug\net6.0\PatternMatchingSwitch.pdb
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\PatternMatchingSwitch\obj\Debug\net6.0\PatternMatchingSwitch.csproj.AssemblyReference.cache
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\PatternMatchingSwitch\obj\Debug\net6.0\PatternMatchingSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\PatternMatchingSwitch\obj\Debug\net6.0\PatternMatchingSwitch.AssemblyInfoInputs.cache
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\PatternMatchingSwitch\obj\Debug\net6.0\PatternMatchingSwitch.AssemblyInfo.cs
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\PatternMatchingSwitch\obj\Debug\net6.0\PatternMatchingSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\PatternMatchingSwitch\obj\Debug\net6.0\PatternMatchingSwitch.dll
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\PatternMatchingSwitch\obj\Debug\net6.0\refint\PatternMatchingSwitch.dll
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\PatternMatchingSwitch\obj\Debug\net6.0\PatternMatchingSwitch.pdb
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\PatternMatchingSwitch\obj\Debug\net6.0\PatternMatchingSwitch.genruntimeconfig.cache
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\PatternMatchingSwitch\obj\Debug\net6.0\ref\PatternMatchingSwitch.dll

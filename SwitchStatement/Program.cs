@@ -1,5 +1,5 @@
 ﻿using static System.Console;
-int number = (new Random()).Next(1, 7);
+int number = new Random().Next(1, 7);
 WriteLine($"My random number is {number}");
 
 switch (number)

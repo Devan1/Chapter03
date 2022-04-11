@@ -9,9 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooleanOperators", "Boolean
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssignmentOperators", "AssignmentOperators\AssignmentOperators.csproj", "{00233E53-2D2D-46E0-B600-E8F2D9621C93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifIsStatement", "ifIsStatement\ifIsStatement.csproj", "{680ABC78-16D3-4D90-8256-A0F4EEC0451B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ifIsStatement", "ifIsStatement\ifIsStatement.csproj", "{680ABC78-16D3-4D90-8256-A0F4EEC0451B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchStatement", "SwitchStatement\SwitchStatement.csproj", "{0F394E30-2E12-4202-9FC9-91E973558F52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchStatement", "SwitchStatement\SwitchStatement.csproj", "{0F394E30-2E12-4202-9FC9-91E973558F52}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatternMatchingSwitch", "PatternMatchingSwitch\PatternMatchingSwitch.csproj", "{A733B3B3-AE9E-46D6-AA93-6964A4042679}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationStatements", "IterationStatements\IterationStatements.csproj", "{2800896C-C3CE-4491-B899-71D3858100DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithTypes", "WorkingWithTypes\WorkingWithTypes.csproj", "{9AE36A01-A794-4FF6-A28F-82D5B29EF93A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{0F394E30-2E12-4202-9FC9-91E973558F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F394E30-2E12-4202-9FC9-91E973558F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F394E30-2E12-4202-9FC9-91E973558F52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A733B3B3-AE9E-46D6-AA93-6964A4042679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A733B3B3-AE9E-46D6-AA93-6964A4042679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A733B3B3-AE9E-46D6-AA93-6964A4042679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A733B3B3-AE9E-46D6-AA93-6964A4042679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2800896C-C3CE-4491-B899-71D3858100DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2800896C-C3CE-4491-B899-71D3858100DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2800896C-C3CE-4491-B899-71D3858100DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2800896C-C3CE-4491-B899-71D3858100DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AE36A01-A794-4FF6-A28F-82D5B29EF93A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE36A01-A794-4FF6-A28F-82D5B29EF93A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE36A01-A794-4FF6-A28F-82D5B29EF93A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE36A01-A794-4FF6-A28F-82D5B29EF93A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
