@@ -1,0 +1,15 @@
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\WorkingWithTypes\bin\Debug\net6.0\WorkingWithTypes.exe
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\WorkingWithTypes\bin\Debug\net6.0\WorkingWithTypes.deps.json
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\WorkingWithTypes\bin\Debug\net6.0\WorkingWithTypes.runtimeconfig.json
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\WorkingWithTypes\bin\Debug\net6.0\WorkingWithTypes.dll
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\WorkingWithTypes\bin\Debug\net6.0\WorkingWithTypes.pdb
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\WorkingWithTypes\obj\Debug\net6.0\WorkingWithTypes.csproj.AssemblyReference.cache
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\WorkingWithTypes\obj\Debug\net6.0\WorkingWithTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\WorkingWithTypes\obj\Debug\net6.0\WorkingWithTypes.AssemblyInfoInputs.cache
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\WorkingWithTypes\obj\Debug\net6.0\WorkingWithTypes.AssemblyInfo.cs
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\WorkingWithTypes\obj\Debug\net6.0\WorkingWithTypes.csproj.CoreCompileInputs.cache
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\WorkingWithTypes\obj\Debug\net6.0\WorkingWithTypes.dll
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\WorkingWithTypes\obj\Debug\net6.0\refint\WorkingWithTypes.dll
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\WorkingWithTypes\obj\Debug\net6.0\WorkingWithTypes.pdb
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\WorkingWithTypes\obj\Debug\net6.0\WorkingWithTypes.genruntimeconfig.cache
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\WorkingWithTypes\obj\Debug\net6.0\ref\WorkingWithTypes.dll

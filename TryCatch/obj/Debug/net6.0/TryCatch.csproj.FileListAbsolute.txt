@@ -1,0 +1,15 @@
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\TryCatch\bin\Debug\net6.0\TryCatch.exe
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\TryCatch\bin\Debug\net6.0\TryCatch.deps.json
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\TryCatch\bin\Debug\net6.0\TryCatch.runtimeconfig.json
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\TryCatch\bin\Debug\net6.0\TryCatch.dll
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\TryCatch\bin\Debug\net6.0\TryCatch.pdb
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\TryCatch\obj\Debug\net6.0\TryCatch.csproj.AssemblyReference.cache
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\TryCatch\obj\Debug\net6.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\TryCatch\obj\Debug\net6.0\TryCatch.AssemblyInfoInputs.cache
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\TryCatch\obj\Debug\net6.0\TryCatch.AssemblyInfo.cs
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\TryCatch\obj\Debug\net6.0\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\TryCatch\obj\Debug\net6.0\TryCatch.dll
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\TryCatch\obj\Debug\net6.0\refint\TryCatch.dll
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\TryCatch\obj\Debug\net6.0\TryCatch.pdb
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\TryCatch\obj\Debug\net6.0\TryCatch.genruntimeconfig.cache
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter03\Chapter03\TryCatch\obj\Debug\net6.0\ref\TryCatch.dll
